@@ -20,18 +20,18 @@
  
 # 사용 기법들
  1. 기존 회원등급체제 수정
-   - Clustering: K-means Clustering, Hierarchical Clustering
+    - Clustering: K-means Clustering, Hierarchical Clustering
  2. 당일배송 실시
-   - 끊임없는 Pandas와 python
+    - 끊임없는 Pandas와 python
  3. 타겟마케팅 전략 제시
-   - Regression: 단순 선형회귀분석 (검색량 데이터와 패커스 매출)
-   - Folium: 지도시각화
+    - Regression: 단순 선형회귀분석 (검색량 데이터와 패커스 매출)
+    - Folium: 지도시각화
 
-# 한계점
-  1. Machine Learning 알고리즘 (random Forest, Xgboost 등)을 사용했다면....
-   - 각 상품별 수요를 더 정확히 예측할 수 있었을 것이다.
-   - 시간적인 한계와 자원의 한계(팀원이 2명)에 ML까지 돌려보지는 못했다.
-   - 현재 상품별 수요를 위한 Feature를 추출하고 있음! 이후 ML 알고리즘을 돌려보려고 함
-   - 나아가 딥러닝 모델 중 RNN을 써서 정확한 수요를 예측하고자 한다.
+# 한계점  
+1. Machine Learning 알고리즘 (random Forest, Xgboost 등)을 사용했다면..  
+   - 각 상품별 수요를 더 정확히 예측할 수 있었을 것이다.  
+   - 시간적인 한계와 자원의 한계(팀원이 2명)에 ML까지 돌려보지는 못했다.  
+   - 현재 상품별 수요를 위한 Feature를 추출하고 있음! 이후 ML 알고리즘을 돌려보려고 함  
+   - 나아가 딥러닝 모델 중 RNN을 써서 정확한 수요를 예측하고자 한다.  
    
  
