@@ -28,7 +28,8 @@
  3. 타겟마케팅 전략 제시
     - Regression: 단순 선형회귀분석 (검색량 데이터와 패커스 매출)
     - Folium: 지도시각화
-
+ - `PACKUS(class,folium).ipynb`이 파일에 중요 code를 다 모아둠!
+ 
 ## 한계점  
 1. Machine Learning 알고리즘 (random Forest, Xgboost 등)을 사용했다면..  
    - 각 상품별 수요를 더 정확히 예측할 수 있었을 것이다.  
